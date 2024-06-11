@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "One Health Tool"
-  content: "This is a tool created to calculate the One Health Index of a region"
+  title: "One Health Index App"
+  content: "Discover the Future of Integrated Health with the One Health Index App"
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,34 +11,24 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+  - title: "Empowering Health through data"
+    image: "assets/images/medical-report.png/"
+    content: "Unified Health Indicators: Dive into a comprehensive framework that combines health indicators across human, animal, and environmental sectors. The One Health Index app is your gateway to understanding the interconnected health landscape through an extensive collection of metrics and datasets."
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Learn More"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Innovative Health tracking and analysis"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+    content: "Data-driven Insights: Harness the power of real-time data analysis to monitor health trends globally. Our app uses advanced algorithms to process indicators and metrics, offering you a detailed view of health dynamics and their impacts on ecosystems"
+  
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Customized Health recommendations"
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
@@ -46,6 +36,22 @@ features:
       - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+    button:
+      enable: false
+      label: ""
+      link: ""
+
+  - title: "Collaborations for a healthier world"
+    image: "/images/service-3.png"
+    content: "Community Engagement: Join forces with a global network of One Health advocates. Share data, insights, and strategies to combat health challenges that transcend borders. Together, we can make a difference"
+  
+  - title: "What sets us apart?" 
+    bulletpoints:
+      - "Robust Framework of Indicators: Access a curated list of health indicators spanning zoonotic diseases, environmental pollutants, and more."
+      - "Interactive Dashboards: Visualize complex datasets with ease, thanks to our user-friendly dashboards and mapping tools"
+      - "Alerts and Notifications: Stay informed with timely alerts on emerging health threats and updates on key metrics."
+      - "Secure Data Sharing: Collaborate securely with peers, leveraging encrypted data sharing and privacy-first policies."
+      
     button:
       enable: false
       label: ""
