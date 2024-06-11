@@ -1,0 +1,97 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "About us"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Resources"
+pageRef = "/about"
+weight = 2
+
+[[main]]
+name = "Technical support"
+pageRef = "/elements"
+weight = 3
+
+[[main]]
+name = "Training and Workshops"
+pageRef = "/elements"
+weight = 4
+
+[[main]]
+name = "Community"
+pageRef = "/elements"
+weight = 5
+
+[[main]]
+name = "Gallery"
+pageRef = "/"
+weight = 6
+
+[[main]]
+weight = 1
+name = "Resources"
+
+[[main]]
+parent = "Resources"
+name = "Sectoral engagement"
+pageRef = "/blog"
+
+[[main]]
+parent = "Resources"
+name = "Case studies"
+pageRef = "/contact"
+
+[[main]]
+parent = "Resources"
+name = "Research and publications"
+pageRef = "/authors"
+
+[[main]]
+parent = "Technical support"
+name = "FAQs"
+pageRef = "/categories"
+
+[[main]]
+parent = "Technical support"
+name = "Trouble shooting guide"
+pageRef = "/404" 
+
+[[main]]
+parent = "Training and Workshops"
+name = "Upcoming events"
+pageRef = "/"
+
+[[main]]
+parent = "Training and Workshops"
+name = "Workshop archive"
+pageRef = "/"
+
+[[main]]
+parent = "Community"
+name = "Projects"
+pageRef = "/"
+
+[[main]]
+parent = "Community"
+name = "Forum"
+pageRef = "/"
+
+# footer menu
+[[footer]]
+name = "About"
+pageRef = "/about"
+weight = 1
+
+[[footer]]
+name = "Elements"
+pageRef = "/elements"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "/privacy-policy"
+weight = 3
