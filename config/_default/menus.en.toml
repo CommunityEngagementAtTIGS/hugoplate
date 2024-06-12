@@ -3,7 +3,7 @@
 # main menu
 [[main]]
 name = "About us"
-pageRef = "/"
+pageRef = "/about"
 weight = 1
 
 [[main]]
@@ -38,22 +38,27 @@ name = "Resources"
 [[main]]
 parent = "Resources"
 name = "Sectoral engagement"
+pageRef = "/resource-1"
+
+[[main]]
+parent = "Resources"
+name = "One Health"
 pageRef = "/blog"
 
 [[main]]
 parent = "Resources"
 name = "Case studies"
-pageRef = "/contact"
+pageRef = "/Case-studies"
 
 [[main]]
 parent = "Resources"
 name = "Research and publications"
-pageRef = "/authors"
+pageRef = "/research-publications"
 
 [[main]]
 parent = "Technical support"
 name = "FAQs"
-pageRef = "/categories"
+pageRef = "/FAQs-1"
 
 [[main]]
 parent = "Technical support"
@@ -73,12 +78,12 @@ pageRef = "/"
 [[main]]
 parent = "Community"
 name = "Projects"
-pageRef = "/"
+pageRef = "/Case-studies"
 
 [[main]]
 parent = "Community"
 name = "Forum"
-pageRef = "/"
+pageRef = "/Forum"
 
 # footer menu
 [[footer]]
@@ -87,11 +92,16 @@ pageRef = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-pageRef = "/elements"
+name = "Contact us"
+pageRef = "/contact"
 weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
 weight = 3
+
+[[footer]]
+name = "Elements"
+pageRef = "/elements"
+weight = 4

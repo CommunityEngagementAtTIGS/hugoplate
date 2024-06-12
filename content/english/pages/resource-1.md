@@ -9,7 +9,7 @@ author: "World Health Organization"
 tags: ["Human health", "Animal health"]
 draft: false
 ---
-## Introduction
+## Communicable diseases, World Health Organization
 Communicable diseases can cause epidemics and pandemics which have the potential to overwhelm the
 capacity of communities; with serious health and socioeconomic consequences. In the past century four influenza pandemics resulted in an estimated 22 to 58 million
 deaths.5

@@ -6,4 +6,8 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Our team consists of individuals from a diverse background including science communicators. public health professionals, statisticians etc. 
+## About the Organization
+We are a not for profit, research institute that addresses agriculture and healthcare needs.
+
+## About the Team
+The Community Engagement and Policy Stewardship team consists of individuals from a diverse background including science communicators. public health professionals, statisticians etc.
