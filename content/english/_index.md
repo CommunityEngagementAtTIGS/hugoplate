@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Calculate now"
-    link: "http://localhost:8501/"
+    link: "http://localhost:5173/category"
 
 # Features
 features:
