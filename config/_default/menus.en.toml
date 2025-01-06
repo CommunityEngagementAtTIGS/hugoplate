@@ -42,7 +42,7 @@ pageRef = "/resource-1"
 
 [[main]]
 parent = "Resources"
-name = "One Health resources"
+name = "Understanding One Health"
 pageRef = "/blog"
 
 [[main]]
@@ -83,7 +83,7 @@ pageRef = "/Forum"
 [[main]]
 parent = "Resources"
 name = "Downloadable resources"
-pageRef = "/Datasets"
+pageRef = "/Downloadable_resources"
 
 # footer menu
 [[footer]]

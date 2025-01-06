@@ -9,11 +9,11 @@ author: ""
 tags: ["Human health", "Animal health"]
 draft: false
 ---
-## What is One Health?
+#### What is One Health?  
 One Health is an integrated, unifying approach to balance and optimize the health of people, animals, and ecosystems over time. It's about understanding that our wellbeing is deeply interconnected with the natural world and the animals we share it with.
-## Why One Health is a concern?
+#### Why One Health is a concern?
 India is currently grappling with several health challenges, including antimicrobial resistance, environmental health issues, and concerns related to food safety. Significantly, 75% of zoonotic diseases, such as Nipah, Avian Influenza, Scrub Typhus, Congo Fever, Kyasanur Forest Disease, COVID-19, and Leptospirosis, have a profound effect on the nation's economy (Kumar et al., 2020). Recent pandemics have highlighted insufficiency in public health policies, prompting the government to pledge support for the One Health (OH) approach and to enhance investment in public health infrastructure (Nambiar et al.). Moreover, with the escalation of challenges in recent years, experts have strongly recommended the OH approach not only to address the pandemic effectively but also to combat the infodemic through the prompt distribution of reliable information.
-## What is One Health Framework?
+#### What is One Health Framework?
 
 At the heart of our app lies the One Health Framework, a dynamic tool that empowers you to explore the interdependencies of health across our planet. This framework is built on two pillars: Indicators and Datasets.
  

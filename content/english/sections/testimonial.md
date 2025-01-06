@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "What users are saying about the One Health Index app"
 description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about the application."
 

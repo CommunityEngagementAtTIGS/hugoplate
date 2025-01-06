@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Empowering Health through data"
-    image: "/images/empowering1.jpg.png"
+    image: "/images/empowering-health-data.png" 
     content: "Unified Health Indicators: Dive into a comprehensive framework that combines health indicators across human, animal, and environmental sectors. The One Health Index app is your gateway to understanding the interconnected health landscape through an extensive collection of metrics and datasets."
     button:
       enable: false
@@ -49,7 +49,7 @@ features:
       - "Secure Data Sharing: Collaborate securely with peers, leveraging encrypted data sharing and privacy-first policies."
       
     button:
-      enable: false
-      label: ""
+      enable: true
+      label: "Calculate now"
       link: ""
 ---
