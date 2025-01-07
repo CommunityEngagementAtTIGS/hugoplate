@@ -5,7 +5,6 @@ description: "this is meta description"
 date: 2024-06-11T05:00:00Z
 image: "assets/images/data-analysis.png"
 categories: ["One Health"]
-author: ""
 tags: ["Human health", "Animal health"]
 draft: false
 ---

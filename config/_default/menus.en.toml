@@ -9,36 +9,26 @@ weight = 1
 [[main]]
 name = "Resources"
 pageRef = "/about"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Technical support"
 pageRef = "/elements"
-weight = 3
+weight = 5
 
 [[main]]
-name = "Training and Workshops"
+name = "Forum"
 pageRef = "/elements"
 weight = 4
 
 [[main]]
-name = "Community"
-pageRef = "/elements"
-weight = 5
-
-[[main]]
-name = "Gallery"
-pageRef = "/"
-weight = 6
+name = "What is One Health?"
+pageRef = "/Understanding-one-health"
+weight = 2
 
 [[main]]
 weight = 1
 name = "Resources"
-
-[[main]]
-parent = "Resources"
-name = "Sectoral engagement"
-pageRef = "/resource-1"
 
 [[main]]
 parent = "Resources"
@@ -56,29 +46,9 @@ name = "FAQs"
 pageRef = "/FAQs-1"
 
 [[main]]
-parent = "Technical support"
-name = "Trouble shooting guide"
-pageRef = "/404" 
-
-[[main]]
-parent = "Training and Workshops"
-name = "Upcoming events"
+parent = "Forum"
+name = "Discussion forum"
 pageRef = "/"
-
-[[main]]
-parent = "Training and Workshops"
-name = "Workshop archive"
-pageRef = "/"
-
-[[main]]
-parent = "Community"
-name = "Projects"
-pageRef = "/Case-studies"
-
-[[main]]
-parent = "Community"
-name = "Forum"
-pageRef = "/Forum"
 
 [[main]]
 parent = "Resources"

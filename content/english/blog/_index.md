@@ -1,5 +1,9 @@
 ---
-title: "Resources"
-meta_title: ""
-description: "This is a dedicated section for how various sectors could play a role in One Health. This section would contain resources for a specific sectors along with guidelines that aid in the integration with One Health"
+title: "What is One Health?"
+meta_title: "Understanding One Health"
+description: "Explore the interconnectedness of human, animal, and environmental health."
 ---
+
+## Understanding One Health
+
+One Health is a collaborative approach to addressing health challenges that span humans, animals, and the environment. It emphasizes the need for integration across these sectors to achieve better outcomes for all.
