@@ -23,7 +23,7 @@ weight = 4
 
 [[main]]
 name = "What is One Health?"
-pageRef = "/Understanding-one-health"
+pageRef = "/blog"
 weight = 2
 
 [[main]]
