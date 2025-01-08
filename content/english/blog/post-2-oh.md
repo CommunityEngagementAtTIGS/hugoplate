@@ -14,7 +14,7 @@ draft: false
 **Intrinsic driver Index (IDI)**:  It measures the interface of human health, animal health, and environmental health. It evaluates how well these sectors collaborate and integrate their efforts to address health challenges.
  
 **Core Drivers Index (CDI)**: This focuses on the effectiveness of One Health implementation in managing critical scientific areas. It assesses progress in tackling challenges like emerging infectious diseases, food security, antimicrobial resistance, climate change, and governance.
-##### 2.2. Key Indictors
+##### 2.2. Key Indicators
 ##### 2.3. Indicators
 ##### 2.4. Sub-Indicators
 
