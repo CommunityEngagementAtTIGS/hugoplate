@@ -7,32 +7,22 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
-###  for customization?
-You can write to us on ceandps@email.com
+### FAQs
 
-### How do I raise a query?
-You can raise a query on our github discussions page
+{{< accordion "How do I reach out to the creators of this tool?" >}}
 
-### Accordions
-
-{{< accordion "How do I reach out to the contact the creators of this tool?" >}}
-
-You can write to us on ceandps@gmail.com
+You can write to us on ceandps@gmail.com or you can submit your query in the "contact us" page, we will reach out to you!
 {{< /accordion >}}
 
-{{< accordion "How can I adjust Horizontal centering" >}}
+{{< accordion "How does this tool work?" >}}
 
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
+The tool collects and analyzes health data from human, animal, and environmental sectors using advanced algorithms. It processes this data to generate real-time insights, visualized through interactive dashboards. Users can access key health indicators, receive alerts on emerging health threats, and securely share data for collaborative action.
 
 {{< /accordion >}}
 
-{{< accordion "Should you use Negative margin?" >}}
+{{< accordion "What are the features of this tool?" >}}
 
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
+The tool offers a unified framework combining health indicators across human, animal, and environmental sectors. Key features include real-time data analysis, actionable health insights, interactive dashboards, secure data sharing, and timely alerts on emerging health threats. It also fosters global collaboration for tackling health challenges
 
 {{< /accordion >}}
 
