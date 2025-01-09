@@ -2,7 +2,7 @@
 title: "One Health Index app"
 meta_title: ""
 description: "this is meta description"
-date: 2024-06-11T05:00:00Z
+date: 2024-07-11T05:00:00Z
 image: "assets/images/data-analysis.png"
 categories: ["One Health"]
 tags: ["Human health", "Animal health"]
