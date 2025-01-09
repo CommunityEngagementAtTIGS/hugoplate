@@ -41,6 +41,11 @@ name = "FAQs"
 pageRef = "/FAQs-1"
 
 [[main]]
+parent = "Technical support"
+name = "Contact us"
+pageRef = "/contact"
+
+[[main]]
 parent = "Forum"
 name = "Discussion forum"
 pageRef = "/"
