@@ -23,7 +23,7 @@ weight = 5
 
 [[main]]
 name = "Calculator"
-pageRef = "/elements"
+pageRef = "/post-3-on.md"
 weight = 3 
 
 [[main]]
@@ -34,11 +34,6 @@ weight = 2
 [[main]]
 weight = 1
 name = "Resources"
-
-[[main]]
-parent = "Resources"
-name = "Research and publications"
-pageRef = "/research-publications"
 
 [[main]]
 parent = "Technical support"

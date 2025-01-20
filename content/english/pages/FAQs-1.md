@@ -11,7 +11,7 @@ draft: false
 
 {{< accordion "How do I reach out to the creators of this tool?" >}}
 
-You can write to us on ceandps@gmail.com or you can submit your query in the "contact us" page, we will reach out to you!
+You can write to us on saveetha.m@tigs.res.in or you can submit your query in the "contact us" page, we will reach out to you!
 {{< /accordion >}}
 
 {{< accordion "How does this tool work?" >}}

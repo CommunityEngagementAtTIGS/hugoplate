@@ -15,11 +15,24 @@ draft: false
  
 **Core Drivers Index (CDI)**: This focuses on the effectiveness of One Health implementation in managing critical scientific areas. It assesses progress in tackling challenges like emerging infectious diseases, food security, antimicrobial resistance, climate change, and governance.
 
-![Drivers of One Health Index](assets/images/image.jpg)
+<hr>
 
-##### 2.2. Key Indicators
-##### 2.3. Indicators
-##### 2.4. Sub-Indicators
+### One Health Drivers
+
+{{< image src="/images/OHI-drivers.png" caption="One Health Drivers" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+<hr>
+
+### 
+
+|      One Health Index Hierarchy          |
+|:------------:|
+| 3 Categories | 
+|13 Key Indicators|
+|57 Indicators|  
+|216 Sub-Indicators |  
+
+<hr>
 
 #### Why One Health Index?
 The One Health approach recognizes that the health of humans, animals, and the environment are all interconnected. A One Health Index could help countries identify areas where they are doing well in terms of One Health, and areas where they need to improve. This could help them to focus their efforts and resources. A One Health Index is necessary due to the lack of clarity on factors driving One Health implementation and the absence of real-world data to identify gaps at the intersection of human, animal, and environmental health. This dearth of evidence hinders effective policy and practice development.
