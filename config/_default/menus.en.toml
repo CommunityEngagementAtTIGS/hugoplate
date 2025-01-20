@@ -9,17 +9,22 @@ weight = 1
 [[main]]
 name = "Resources"
 pageRef = "/about"
-weight = 3
+weight = 4 
 
 [[main]]
 name = "Technical support"
 pageRef = "/elements"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Forum"
 pageRef = "/elements"
-weight = 4
+weight = 5
+
+[[main]]
+name = "Calculator"
+pageRef = "/elements"
+weight = 3 
 
 [[main]]
 name = "What is One Health?"

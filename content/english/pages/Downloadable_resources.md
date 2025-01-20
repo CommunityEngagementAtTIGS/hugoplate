@@ -4,7 +4,7 @@ date: 2024-07-22
 ---
 
 
-### Download the Modified entropy based method dataset
+### Download the Modified entropy based method (MEWM) dataset
 This is the calculation of the OHI for India using the MEWM method
 
 
