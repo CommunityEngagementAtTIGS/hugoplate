@@ -89,6 +89,12 @@ This One Health Index calculator offers a comprehensive tool for assessing the i
 2. When the toggle is enabled:
     - Input fields will appear next to each sub-indicator, indicator, key indicator, and category for assigning weights.
     - The weightages will be factored into the calculation of the respective scores.
+
+
+##### Need Help?
+
+If you require technical support or have any questions about using the One Health Index Calculator, visit our *[<span style="color: blue;">FAQs and Technical Support page</span>](/faqs-1/)*.
+
 <hr>
 
 #### What are we providing?
