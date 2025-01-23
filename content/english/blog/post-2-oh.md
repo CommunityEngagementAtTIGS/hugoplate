@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2024-06-11T05:00:00Z
 image: "assets/images/image.jpg"
 categories: ["One Health"]
-tags: ["Human health", "Animal health"]
+tags: ["One Health"]
 draft: false
 ---
 ##### 2.1. Drivers
@@ -15,6 +15,7 @@ draft: false
  
 **Core Drivers Index (CDI)**: This focuses on the effectiveness of One Health implementation in managing critical scientific areas. It assesses progress in tackling challenges like emerging infectious diseases, food security, antimicrobial resistance, climate change, and governance.
 
+<span style="font-size: 0.8em; font-style: italic;">(Zhang et al., 2002)</span>
 <hr>
 
 ### One Health Drivers
@@ -32,6 +33,7 @@ draft: false
 |57 Indicators|  
 |216 Sub-Indicators |  
 
+<span style="font-size: 0.8em; font-style: italic;">(Zhang et al., 2002)</span>
 <hr>
 
 

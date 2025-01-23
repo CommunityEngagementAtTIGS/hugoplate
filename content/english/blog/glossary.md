@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2024-08-11T05:00:00Z
 image: ""
 categories: ["One Health"]
-tags: ["Human health", "Animal health"]
+tags: ["One Health"]
 draft: false
 ---
 
