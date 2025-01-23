@@ -55,6 +55,11 @@ parent = "Resources"
 name = "Downloadable resources"
 pageRef = "/Downloadable_resources"
 
+[[main]]
+parent = "Resources"
+name = "Webinars"
+pageRef = "/webinars"
+
 # footer menu
 [[footer]]
 name = "About"
