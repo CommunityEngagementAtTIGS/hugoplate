@@ -20,3 +20,5 @@ _Indicators_ : These are the signposts of one health adopted from the Global One
  
 _Datasets_ : Behind every indicator is a wealth of data, collected from authoritative sources from Indian databases (NFHS, FAO, Worldbank, PIB India, Indiastats, Agricoop etc). These datasets are the backbone of our framework, offering a deep dive into the specifics of each health aspect. Whether you're a researcher, a policy-maker, or simply a concerned citizen, these datasets provide the evidence-based foundation for informed decision-making and effective action.
 
+
+

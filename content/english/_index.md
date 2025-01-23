@@ -4,6 +4,11 @@ banner:
   title: "One Health Index App"
   content: "Discover the Future of Integrated Health with the One Health Index App"
   image: "/images/banner.png"
+
+  button:
+      enable: true
+      label: "Calculate now"
+      link: ""
  
 
 #Intro 

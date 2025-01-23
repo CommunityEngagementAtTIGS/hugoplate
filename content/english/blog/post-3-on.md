@@ -99,3 +99,5 @@ This One Health Index calculator offers a comprehensive tool for assessing the i
 5. Interdependence/ interconnectedness among indicators
 6. Understanding the differences through expert rating
 7. Resource allocation
+
+{{< button label="Calculate now" link="" style="solid" >}}
