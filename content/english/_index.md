@@ -8,7 +8,7 @@ banner:
   button:
       enable: true
       label: "Calculate now"
-      link: ""
+      link: "https://ohicalc-frontend.onrender.com/login"
  
 
 #Intro 
@@ -42,7 +42,7 @@ intro3:
     label: "Learn More"
   button2:
     enable: true
-    link: ""  # Replace with the actual link
+    link: "https://ohicalc-frontend.onrender.com/login"  # Replace with the actual link
     label: "Calculate Now"
 
 #Intro4
